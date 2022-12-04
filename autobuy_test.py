@@ -49,7 +49,7 @@ def buy(phone,email):
 if __name__ == "__main__":
     start()
     sleep(1)
-    login('zxcv1252025@yahoo.com.tw','nare1252025')
+    login('','')        #填入fb帳號,密碼
     sleep(15)
-    buy('0986369075','blackrock88426@gmail.com')
+    buy('','')          #購買人資訊 電話、email
     sleep(100)
